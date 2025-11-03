@@ -6,8 +6,22 @@
     <description>Recent content on AI and Humanity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aihumanityclass.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Preliminary Syllabus Posted</title>
+      <link>https://aihumanityclass.github.io/preliminarysyllabus/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/preliminarysyllabus/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://aihumanityclass.github.io/syllabus&#34;&gt;preliminary syllabus&lt;/a&gt; is now available. This should give you a good idea what to expect in the class, but some aspects may change and more details will be added before the semester begins.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Syllabus</title>
+      <link>https://aihumanityclass.github.io/syllabus/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/syllabus/</guid>
+      <description>&lt;h2 id=&#34;preliminary-syllabus&#34;&gt;Preliminary Syllabus&lt;/h2&gt;&#xA;&lt;p&gt;This course is in development. The partial preliminary syllabus here is provided to give you an idea of what to expect in the class, but is likely to change before the semester starts.&lt;/p&gt;&#xA;&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;This course explores impacts of AI on humanity, with a focus on understanding and mitigating unintended harms from AI and intended abuses of AI systems. Expected topics include fairness, privacy, copyright infringement, robustness, safety, economic disruption, and cultural diminishment.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome</title>
       <link>https://aihumanityclass.github.io/welcome/</link>
@@ -42,13 +56,6 @@
       <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://aihumanityclass.github.io/resources/</guid>
       <description>&lt;p&gt;Here are links to some useful resources relevent to this course. If&#xA;you discover other resources you think would be helpful for students&#xA;in the class, please let us know to add them here.&lt;/p&gt;&#xA;&lt;h2 id=&#34;other-classes&#34;&gt;Other Classes&lt;/h2&gt;&#xA;&lt;p&gt;This sheet, collected by &lt;a href=&#34;https://cfiesler.medium.com/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18&#34;&gt;Casey&#xA;Fisler&lt;/a&gt;&#xA;summarize courses on tech ethics: &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1jWIrA8jHz5fYAW4h9CkUD8gKS5V98PDJDymRf8d9vKI/edit#gid=0&#34;&gt;Tech Ethics&#xA;Curriculum&lt;/a&gt;. Her&#xA;SIGSCE 2020 paper, &lt;a href=&#34;https://cmci.colorado.edu/~cafi5706/SIGCSE2020_EthicsSyllabi.pdf&#34;&gt;&lt;em&gt;What Do We Teach When We Teach Tech Ethics? A&#xA;Syllabi&#xA;Analysis&lt;/em&gt;&lt;/a&gt;&#xA;provides an analysis of these courses.&lt;/p&gt;&#xA;&lt;p&gt;Some courses that were particularly influential on me include:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Syllabus</title>
-      <link>https://aihumanityclass.github.io/syllabus/</link>
-      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://aihumanityclass.github.io/syllabus/</guid>
-      <description>&lt;h1 id=&#34;overview&#34;&gt;Overview&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Course Description:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Most decisions today are made by software, most of the rules of&#xA;society are interpreted and enforced by programs, and much human&#xA;interaction is now mediated by computing platforms that decide what&#xA;people see and who they can talk to. As the people who decide what&#xA;software gets written and how it is deployed, computer scientists have&#xA;disproportionate power to mold society — for both good and bad.&#xA;This will be a discussion and project-based seminar focused on ethical&#xA;issues faced by computing systems and the people who design, build,&#xA;and deploy them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

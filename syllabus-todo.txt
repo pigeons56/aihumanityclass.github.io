@@ -1,0 +1,78 @@
+
+[ These are cuts from the template syllabus; some might be useful to incorporate later ]
+
+
+**Course Description:**
+
+Most decisions today are made by software, most of the rules of
+society are interpreted and enforced by programs, and much human
+interaction is now mediated by computing platforms that decide what
+people see and who they can talk to. As the people who decide what
+software gets written and how it is deployed, computer scientists have
+disproportionate power to mold society &mdash; for both good and bad.
+This will be a discussion and project-based seminar focused on ethical
+issues faced by computing systems and the people who design, build,
+and deploy them.
+
+**Course Objectives:** The goal of this course is to raise awareness
+and increase understanding of the moral and ethical aspects of
+computing systems. This course is more about raising questions and
+developing intellectual frameworks for thinking about difficult
+problems than about developing technical skills. Few, if any, of the
+problems we will discuss have easy answers, but hopefully we will have
+an engaging time discussing them and develop more sophisticated ways
+of thinking about them.
+
+**Class Meetings:** The scheduled course meetings are Tuesdays and
+  Thursdays at 9:30-10:45am. Because parts of the class will be based on discussions and in-class activities, it is essential that students attend and fully participate
+  in the scheduled class meetings.
+
+
+# Communication
+
+We will primarily use the course website for one-to-many
+communications (posting course materials) and the [github
+Discussions](https://github.com/csethics/csethics.github.io/discussions)
+site for interactive discussion.
+
+**Course Website:** All course materials that can be posted publicly
+  will be posted at
+  [_https://csethics.github.io_](https://csethics.github.io). We may
+  occasionally use the collab site to post materials we cannot post
+  publicly.
+
+**Discussion:** We will use the github discussions site for
+  interactive discussions:
+  [_https://github.com/csethics/csethics.github.io/discussions_](https://github.com/csethics/csethics.github.io/discussions). (See more about this below.)
+
+# Course Format
+
+The course will be divided into five teams of five students each. Most
+weeks, one of the teams will be responsible for leading the class; one
+of the teams will be responsible for writing the blog post about the
+week; and the remaining students will be responsible for writing short
+reaction posts and engaging in the discussion both on-line and in
+class.
+
+The standard week for the course will be something like this:
+
+**Wednesday night (or earlier):** Reading/Viewing Assignment specified
+
+**Sunday, 10:59pm:** Initial responses to reading assignment due (posted in Discussions forum)
+
+**Tuesday, 9:30-10:45am:** Class meeting (first meeting on the week's topic)
+
+The team leading the week should have a plan for what to do both
+Tuesday and Thursday, but should be adaptive to what happens in class
+on Tuesday. This could include assigning additional (but not overly
+time consuming) tasks for students to do before Thursday, as well as
+provoking on-line discussion that would build on the in-class
+discussions Tuesday, and set-up the Thursday meeting.
+
+Before Tuesday's class meeting, the group responsible for leading the
+following week's discussions should have prepared a plan and candidate
+list of materials for the next week (with my help), and meet with me
+after class Tuesday to finalize the plan for the following week.
+
+**Thursday, 9:30-10:45am:** Class meeting (second and final meeting on
+  the week's topic)
