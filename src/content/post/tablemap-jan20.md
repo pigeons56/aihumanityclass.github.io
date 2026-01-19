@@ -8,5 +8,5 @@ slug = "tablemap-20jan"
 
 Here's the Table Teams map for this week (both 20 Jan and 22 Jan classes):
 <center>
-<img src="/images/tablemap-20jan.png" width="80%">
+<img src="/images/tablemap-jan20.png" width="80%">
 </center>
