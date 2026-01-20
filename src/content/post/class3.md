@@ -1,9 +1,8 @@
 +++
-date = "15 Jan 2026"
+date = "20 Jan 2026"
 draft = false
-title = "Class 2"
+title = "Class 3"
 author = "David Evans"
-slug = "class2"
 +++
 
 ## Slides
