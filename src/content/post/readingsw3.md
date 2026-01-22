@@ -1,5 +1,5 @@
 +++
-date = "22 Jan 2026"
+date = "21 Jan 2026"
 draft = false
 title = "Readings for Week 3"
 author = "David Evans, Teams 7 and 8"
