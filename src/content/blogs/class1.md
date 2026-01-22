@@ -7,7 +7,7 @@ author = "Team 9"
 
 Replace this with your blog!
 
-**Blogging Team 9**: _list your names how you want them to be seen_
+**Blogging Team 9**:
 Ramaka, Shriya
 Pavuloori, Amita
 Butler, Eva
