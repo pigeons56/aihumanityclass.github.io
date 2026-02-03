@@ -7,7 +7,7 @@ author = "David Evans"
 
 ## Clinical use of AI in Medicine
 
-Reading for Tuesday, 3 February (repeaded from [Previous Post](/readings-for-week-3/), but with date updated due to snow day):
+Reading for Tuesday, 3 February (repeated from [Previous Post](/readings-for-week-3/), but with date updated due to snow day):
 
 - Ethan Goh, Robert J. Gallo, Eric Strong, Yingjie Weng, Hannah Kerman, Jason A. Freed, Joséphine A. Cool, Zahir Kanjee, Kathleen P. Lane, Andrew S. Parsons, Neera Ahuja, Eric Horvitz, Daniel Yang, Arnold Milstein, Andrew P. J. Olson, Jason Hom, Jonathan H. Chen and Adam Rodman. 
 _GPT-4 assistance for improvement of physician performance on patient care tasks: a randomized controlled trial_. Nature Medicine, February 2025. [[PDF Link](/docs/goh2025.pdf)] [[Web Link](https://www.nature.com/articles/s41591-024-03456-y)]

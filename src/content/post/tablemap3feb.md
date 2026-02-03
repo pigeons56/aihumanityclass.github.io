@@ -1,6 +1,7 @@
 +++
-date = "03 Feb 2026"
+date = "2026-02-03T08:25:00-05:00"
 draft = false
+weight = 2
 title = "Tables for Feb 3-5"
 author = "David Evans"
 slug = "tablemap-3feb"
