@@ -24,8 +24,7 @@ This is why AI bias and genomics belong in the same conversation. As genetic dat
 <center><img src="/images/class5-img1.webp" width=80% alt=""></img>
 
 [Figure 1: Conceptual diagram of the T7-ORACLE accelerated protein evolution system in E. coli.](https://www.nature.com/articles/s41589-025-02065-1)
-<center> 
-
+</center> 
 
 
 ## News Discussion
@@ -37,9 +36,9 @@ The discussion focused on how genomics has become more digital and what risks co
 
 The presentation was based on the assigned articles for the week: [_Highly accurate protein structure prediction with AlphaFold_](https://aihumanityclass.github.io/docs/alphafold2-jumper2021.pdf) and [_AI in Science: Emerging evidence from AlphaFold 2_](https://www.innovationgrowthlab.org/wp-content/uploads/2025/11/ai_in_science_af2_igl_summary.pdf).
 
-<center><img src="/images/class5-img2" width=80% alt=""></img> 
+<center><img src="/images/class5-img2.webp" width=80% alt=""></img> 
 
-[Figure 2: Protein developed by AlphaFold.](https://alphafold.ebi.ac.uk/)<center>
+[Figure 2: Protein developed by AlphaFold.](https://alphafold.ebi.ac.uk/)</center>
 
 The lead discussion for this class was presented by Team 7 regarding AlphaFold and Protein Structure Prediction. Team 7 discussed the potential benefits and concerns of AlphaFold’s involvement in protein research. 
 
@@ -53,16 +52,19 @@ Additionally, its ability to speed up protein structure research raises broader 
 Team 7 mentioned many topics of discussion revolving around the use of AlphaFold and the future of AI in scientific research. Some questions were centered on conversations between table group members, but the larger discussion questions and their respective student responses became more about the broader implications of AlphaFold in conducting, as Team 7 stated, “good science.”
 
 **Question 1: Does AI change what it means to “do science”?**
+
 Team 7 argues that AI does change what it means by shifting the scope of problems that can be solved. One student responded to this question by stating that AI does not change what it fundamentally means to do science, but rather changes the process in which we do it. As they put it, “the scientific method does not change,” however, the tools that we use to pursue scientific research evolve over time. AI is simply just another tool in the toolbelt.
 
 The discussion team then proposed a follow-up question for the class to ponder: Do we believe that AI will get to the point where it will perform new discoveries on its own, or will it follow human direction? Additionally, Professor Evans pointed out that AI could be used to generate hypotheses for scientists to use as starting points in future research. What then could the scientific landscape of the future look like?
 
 **Question 2: Does AI narrow what “good science” looks like?**
+
 Team 7 opened this discussion with the authors’ findings in the AlphaFold 2 Summary Report. The authors stated that AlphaFold 2 “lowers the cost barrier and reduces the risks associated with research portfolio diversification,” which may help divert research efforts and resources to more unexplored areas of protein science. However, the discussion team also mentioned how there is discourse as to whether AI will either contribute to or help mitigate the “spotlight effect,” which is a phenomenon where research is focused on existing, data-rich problems and structures.
 
 Some students shared their disagreement with the discussion question. One student asserted that since AI programs like AlphaFold 2 are tools for scientists to use, it is more of the scientists’ responsibility to know how to narrow their focus. AlphaFold 2 cannot perform research on its own. A member of Team 7 shared the perspective that even if AI could narrow the scope of pursued questions, it is still good to solve problems in any case, no matter how easy and well-established they may be.
 
 **Question 3: If AlphaFold is getting protein structures right most of the time, does it still make sense to run expensive lab experiments to confirm them? And is it okay if we don’t fully understand how the model works, as long as the output is correct?**
+
 Team 7 led with the idea that “high predictive accuracy does not necessarily imply mechanistic understanding.” In essence, AlphaFold 2, along with many other AI systems, works as a “black box” where most users only acknowledge that its protein structure predictions are accurate; however, they do not understand how the conclusion was reached. In light of this, should researchers place so much emphasis on the results of AlphaFold 2?
 
 One student’s response was a more nuanced take. The student affirmed that we should not take an AI’s word at face value, especially when conducting experiments. On the other hand, researchers do not necessarily need to know the nitty-gritty of how the model works. If the model proves useful, then it should be recognized as such, but it does not discount the importance of verification through experimentation.
