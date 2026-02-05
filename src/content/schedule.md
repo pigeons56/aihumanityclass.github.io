@@ -291,8 +291,7 @@ slug = "schedule"
   <td>Tuesday 3 Feb</td>
   <td>MoltBook (4)</td>
   <td>AI in Clinical Medicine (8)</td>
-  <td><a href="https://aihumanityclass.github.io/readings-for-week-3/">Readings</a> <font color="red">
-  <a href="/blogs/class6/">Class 6</a> (12)</font></td>
+  <td>  <a href="/blogs/class6/">Class 6</a> (12)</td>
   </tr>
  </tbody>
 </table>
