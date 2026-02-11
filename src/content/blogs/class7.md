@@ -11,7 +11,7 @@ In general, writing for the web is different from writing for other media. You s
 
 Replace this with your blog!
 
-**Blogging Team [1]**: 
+**Blogging Team [1]**: ADD NAMES
 
 # Marking Big Heading
 
