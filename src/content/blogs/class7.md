@@ -39,12 +39,12 @@ Furthermore, the concept of fairness from a statistical lens was also introduced
 Lastly, the class discussion ended on a broader look at several of the domains currently utilizing AI systems that are affected by AI bias. These domains include healthcare, criminal justice, finance, education, and employment. Overall, it was generally agreed upon that AI has tangible benefits for these domains, but also poses serious risks due to bias, and it is becoming increasingly important to consider bias and understand how it may be impacting our AI systems before mass implementing them.
 
 # Sources:
-https://kyrawilson.github.io/me/about/
-https://faculty.washington.edu/aylin/
-https://doi.org/10.48550/arXiv.2507.08029
-https://doi.org/10.5465/AMPROC.2025.15911symposium
-https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/
-https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
-https://fairmlbook.org/classification.html 
-https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
-https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40
+* https://kyrawilson.github.io/me/about/
+* https://faculty.washington.edu/aylin/
+* https://doi.org/10.48550/arXiv.2507.08029
+* https://doi.org/10.5465/AMPROC.2025.15911symposium
+* https://pmc.ncbi.nlm.nih.gov/articles/PMC12823528/
+* https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing 
+* https://fairmlbook.org/classification.html 
+* https://www.ashbyhq.com/talent-trends-report/reports/2023-recruiter-productivity-trends-report
+* https://apnews.com/article/trump-discrimination-ai-eeoc-disparate-impact-a2e8aba11f3d3f095df95d488c6b3c40
