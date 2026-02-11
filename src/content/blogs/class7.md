@@ -1,8 +1,8 @@
 +++
-date = "21 Jan 2026"
+date = "07 Feb 2026"
 draft = true
-title = "Blog Template"
-author = "Team [your team]"
+title = "Class 7: AI Bias and Interpretability"
+author = "Team [1]"
 +++
 
 You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
