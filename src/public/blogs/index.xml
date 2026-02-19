@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://aihumanityclass.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Class 10: AI &amp; Software Development</title>
+      <link>https://aihumanityclass.github.io/blogs/class10/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://aihumanityclass.github.io/blogs/class10/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Blogging Team [4]&lt;/strong&gt;: Aaryan Asthana, Jason Chin, Sarah Petchel, Taylor Petrofski, Katherine Anne Rukavina&lt;/p&gt;&#xA;&lt;h2 id=&#34;news-the-filipino-workers-at-the-sharp-end-of-ai&#34;&gt;News: The Filipino Workers at the Sharp End of AI&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presented by Team 8&lt;/strong&gt;: &lt;a href=&#34;https://myuva-my.sharepoint.com/:p:/g/personal/ysx7nx_virginia_edu/IQBny3KwaXbrTrw2aOMtKqg8Adot8WQGXez-xnxs2HsFFxo?e=CLeC74&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;articles-discussed&#34;&gt;Articles Discussed&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Simon, T. (2025, April 24). &lt;a href=&#34;https://www.equaltimes.org/the-filipino-workers-at-the-sharp&#34;&gt;&lt;em&gt;The Filipino workers at the sharp end of artificial intelligence&lt;/em&gt;&lt;/a&gt;). Equal Times.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Vyas, I. (2025, May 27). &lt;a href=&#34;https://citrusbug.com/blog/it-outsourcing-statistics-2025/&#34;&gt;&lt;em&gt;IT Outsourcing Statistics in 2025: Top Countries &amp;amp; Their Market Share.&lt;/em&gt;&lt;/a&gt; CitrusBug Technolabs Blog.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;discussion-outsourcing-intelligence-the-human-cost-of-ai-development&#34;&gt;Discussion: Outsourcing Intelligence: The Human Cost of AI Development&lt;/h3&gt;&#xA;&lt;p&gt;Team 8 began class with a discussion of the often invisible human labor that powers AI systems. The news presentation focused on an Equal Times article that reports on data labelers in the Philippines. These workers are performing repetitive tasks to train AI models, such as identifying objects in images, much like the reCAPTCHA systems many of us often encounter.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Class 9: Extractability</title>
       <link>https://aihumanityclass.github.io/blogs/class9/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>

@@ -15,9 +15,9 @@ date = "2026-02-17"
 
 1. Simon, T. (2025, April 24). [_The Filipino workers at the sharp end of artificial intelligence_](https://www.equaltimes.org/the-filipino-workers-at-the-sharp)). Equal Times.  
   
-2. Vyas, I. (2025, May 27). [_IT Outsourcing Statistics in 2025: Top Countries & Their Market Share._](https://citrusbug.com/blog/it-outsourcing-statistics-2025/). Citrusbugtechnolabs.
+2. Vyas, I. (2025, May 27). [_IT Outsourcing Statistics in 2025: Top Countries & Their Market Share._](https://citrusbug.com/blog/it-outsourcing-statistics-2025/) CitrusBug Technolabs Blog.
 
-## Discussion: Outsourcing Intelligence: The Human Cost of AI Development
+### Discussion: Outsourcing Intelligence: The Human Cost of AI Development
 
 Team 8 began class with a discussion of the often invisible human labor that powers AI systems. The news presentation focused on an Equal Times article that reports on data labelers in the Philippines. These workers are performing repetitive tasks to train AI models, such as identifying objects in images, much like the reCAPTCHA systems many of us often encounter. 
 
@@ -25,24 +25,20 @@ Team 8 featured several quotes from workers describing the conditions they face 
 
 <center><img src="/images/cagayan.png" width=50% alt=""></img><br>
 
-*Figure 1: Remotasks employees annotate data in a building rented by the company in Cagayan de Oro.
+*Figure 1: Remotasks employees annotate data in a building rented by the company in Cagayan de Oro.  
 Photo by Théophile Simon via Equal Times*
 </center>
 
-Team 8 introduced the author, Théophile Simon, a French freelance journalist who has focused on human rights and the ethics of AI since 2023. They also pointed out that Equal Times is a publication that covers labor rights and social justice issues globally. 
+Team 8 introduced the author, Théophile Simon, a French freelance journalist who has focused on human rights and the ethics of AI since 2023. Equal Times is a publication that covers labor rights and social justice issues globally. 
 
 Team 8 then transitioned to positioning AI outsourcing in the context of neocolonialism, which is the idea that wealthy nations exert control over developing countries through economic rather than political means. Interestingly, they explained that data has replaced raw materials as the resource being extracted. The risk and harm of content moderation and data labeling is outsourced to workers in the Global South, while the value generated is felt by tech companies in wealthy nations. They noted that 70% of companies confirm outsourcing is more economical, and 92% of G2000 companies utilize IT outsourcing services. The Philippines holds 13.5% of the global outsourcing market.
 
 Particularly disturbing was the discussion of content moderation work, where workers must view traumatic content, such as violence and sexual assault, in order to train AI systems to recognize and filter such material. These workers are being paid wages below the legal minimum to complete tasks that carry a psychological toll.
 
----
-
 **Discussion Question 1:** _Does intense AI competition make exploitation inevitable by disadvantaging companies that pay fair wages for data annotation?_
 
 The class had differing perspectives. One point argued that exploitation is endemic across industries and that companies always try to accomplish as much as possible for as little cost as possible. The asynchronous, remote nature of data labeling work makes exploitation even easier since workers are isolated and invisible. However, another point suggested that the size and influence of major AI companies could actually shift industry norms. They used Patagonia as an example of a company that has successfully marketed themselves on ethical sourcing, so consumers are willing to pay their relatively higher prices. 
 
-
----
 
 **Discussion Question 2:** _Would you pay more for an AI service if the workers were fairly compensated?_
 
@@ -50,16 +46,17 @@ Responses were mixed. Some said yes, but one point pushed back: “I say no beca
 
 A practical challenge was also considered. How do you actually verify whether AI labor is ethically sourced? While bad conditions tend to surface through investigative reports, transparency about good practices is harder to confirm. 
 
-
----
-
-**Discussion Question 3:** _Human cost of content moderation?_ + Professor Evan's Take
+**Discussion Question 3:** _Human cost of content moderation?_ + 
 
 The last part of the discussion examined the human cost of content moderation. One point noted it’s a necessary job because someone has to ensure AI systems have guardrails for all users. Another point compared the role to similar positions in law enforcement, where investigators must review disturbing material and often don’t last long due to the mental health impact. Team 8 finished the discussion with a reflection question: _Would we accept these conditions if we asked Americans to do the same work?_
 
-Professor Evans’s Perspective
+**Professor Evans’ Take**
 
-Prof. Evans offered a nuanced take, comparing the situation to fast fashion and noting that the existence of air-conditioned offices for this work in countries like the Philippines actually represents a form of progress because these nations have developed enough economically to provide such facilities. While not dismissing the ethical concerns, he suggested viewing it as part of a broader economic trajectory. 
+Prof. Evans offered a nuanced take, pushing back on some of the language about "colonialism" and "exploitation". 
+
+We should be sympathetic and empathetic to the unfortunate circumstances many in the world today suffer under, but for the most part, individuals are taking these jobs under well-informed free will because they are the best opportunities available to them &mdash; better to work in an air-conditioned office typing into a computer than in a "sweat shop" making clothes or field picking crops. The article talked about a "race to the bottom" where companies keep moving to new countries with lower cost labor, but this is really a "lifting of boats" where as work is out-sourced, countries become richer, and there are better opportunities for their residents and it is more economical to develop outsourcing in comparatively poorer and lower income countries. Many countries (e.g., Taiwan) that were low-cost outsourcing locations a few decades ago are now quite rich, and the countries discussed in the article are richer and offer their citizens better opportunities than countries without enough infrastructure or educated population to be economical to out-source to today. 
+
+We shouldn't ignore the risks of unfair exploitation and mistreatment, but should start from an assumption that providing job opportunities is actually a good thing and, although the companies doing this are doing this for their own financial benefits, they are mostly incidentally helping not hurting the places and people who are doing the outsourced work.
 
 ---
 
@@ -92,9 +89,6 @@ The results were surprising. Before starting, developers predicted AI would spee
 Team 12 offered their interpretation that when a developer has been working on a codebase for years, they’re more familiar with it than AI could be. Waiting for AI responses takes time, and reviewing AI-generated code for correctness adds overhead that may not pay off when the developer already knows what to do. 
 
 They also discussed the second paper and explained how it used a longitudinal approach. It tracked AI tool usage over two years with 400 AI users and 400 non-users. The survey results showed that 71% of developers were satisfied with AI tools, and 61.3% reported increased reliance over time. The main takeaway is that AI tools don’t replace developer work, rather, they restructure it. Developers spend less time writing code from scratch and more time on verification and integration. 
-
-
----
 
 **Discussion Question :** _Are people overestimating AI’s contribution to software development?_
 
