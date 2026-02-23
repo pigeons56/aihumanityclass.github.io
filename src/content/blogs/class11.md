@@ -26,6 +26,9 @@ Table 12 proposed a new, but related discussion topic: what differentiates an AI
 
 Finally, the class discussed the profit incentive for apps like these, and whether profit incentive is actually a valuable way to determine a company’s worth anyway. Tables were torn between confusion on how DateDrop’s business model operated, skepticism over the incentive for DateDrop to make good matches, and passion over simply making something that is effective and helpful, regardless of its cost or benefit.
 
+---
+## Professor Evans' Thoughts on Class 10 (AI in Software Programming)
+Before the lead team presented, Professor Evans had some thoughts from Tuesday’s class as well, which was also on AI in software programming. We discussed an example of code for generating a factorial by Copilot, and discussed what flaws AI-generated code might have at the moment. Professor Evans also contributed some insightful thoughts on the history of software development. We discussed the development of Fortran (which was created by a UVA dropout who worked at IBM in 1950!) and the evolution of a “software company,” which was very relevant to our discussion from last class. Professor Evans ended with a reminder that the world of programming is always changing, even within education — we used to have a class where you would look at compiler output, but none of us in the class were old enough to have taken it. The world has already been changing rapidly, even before AI. It’s only a matter of speeding up that process.
 
 ---
 ## Lead Topic: Software Development using AI
