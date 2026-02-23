@@ -29,6 +29,14 @@ author = "Team 5"
 
 ## Discussion: 
 ---
+## Additional References
+
+Additional Sources
+
+- For Claude demo: https://github.com/anthropics/claudes-c-compiler
+
+
+---
 You can use this template for your blog, but also look at previous examples from other blogging teams for help on structuring your blog.
 
 In general, writing for the web is different from writing for other media. You should break your text into fairly short paragraphs, and including images and links is highly encouraged!
