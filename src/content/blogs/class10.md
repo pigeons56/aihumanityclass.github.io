@@ -108,8 +108,6 @@ When will AI actually replace software developers? The class seemed to agree tha
 
 ## Additional References
 
-Additional Sources
-
 Bean, R. and Davenport, T. H. (2026, January 6). Five Trends in AI and Data Science for 2026. MIT Sloan Management Review. https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/ 
 
 GeeksforGeeks. (2023, November 8). Evolution of Software Development. GeeksforGeeks. https://www.geeksforgeeks.org/software-engineering/evolution-of-software-development-history-phases-and-future-trends/ 
