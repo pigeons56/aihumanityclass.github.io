@@ -56,21 +56,21 @@ Professor Evans also contributed some insightful thoughts on the history of soft
 - Simon Willison, How StrongDM’s AI team build serious software without even looking at the code. 7 February 2026. [Link](https://simonwillison.net/2026/Feb/7/software-factory)
 - Nicholas Carlini, Building a C compiler with a team of parallel Claudes. Anthropic Blog, 5 February 2026. [Link](https://www.anthropic.com/engineering/building-c-compiler) 
 
-## **Overview: **
+## **Overview:**
 
 Team 1 opened the class with the statistic that over 90% of developers in the U.S. now use AI coding tools, and companies are increasingly integrating AI-generated code directly into production systems, but this information framed an interesting question: What happens when nearly half of the code contains exploitable bugs?
 
-Team 1 introduced the report from the Center for Security and Emerging Technology (CSET) that examined the security risks of AI-generated code. The report highlights three categories of risk associated with AI models.
+Team 1 introduced the report from the **Center for Security and Emerging Technology** (CSET) that examined the security risks of AI-generated code. The report highlights three categories of risk associated with AI models.
 
-The first was insecure code generation. Noting that ~48% of tested AI-generated code contained at least one bug, Team 1 connected this to the way models are trained on insecure open-source code and that evaluation benchmarks measure functionally instead of security. They also highlighted automation bias, or the tendency for users to trust AI-generated output with less scrutiny than they should.
+1. **Insecure code generation:** Noting that ~48% of tested AI-generated code contained at least one bug, Team 1 connected this to the way models are trained on insecure open-source code and that evaluation benchmarks measure functionally instead of security. They also highlighted automation bias, or the tendency for users to trust AI-generated output with less scrutiny than they should.
 
-The second category is model-level vulnerabilities. In this section, they discussed how as well as creating flawed outputs, AI coding systems introduce new interfaces for attackers to exploit. They covered data poisoning of training datasets, backdoor trigger attacks, and prompt injection risks with the key takeaway being that these vulnerabilities can scale quickly because they exist at the level of the model itself.
+2. **Model-level vulnerabilities:** In this section, they discussed how as well as creating flawed outputs, AI coding systems introduce new interfaces for attackers to exploit. They covered data poisoning of training datasets, backdoor trigger attacks, and prompt injection risks with the key takeaway being that these vulnerabilities can scale quickly because they exist at the level of the model itself.
 
-The third is about the systematic and supply chain. This happens when insecure AI generated code enters open repositories and becomes training data for models, causing a negative feedback loop.
+3. **Systematic and supply chain:** This happens when insecure AI generated code enters open repositories and becomes training data for models, causing a negative feedback loop.
 
-Team 1 transitions to the article on StrongDM’s “Dark Factory”. They described how StrongDM experimented with a three-person team in which AI agents wrote and tested all code, and the role of the humans was limited to designing specifications and scenarios. The hard rule was that humans could not write or review code, pushing the idea of AI-assisted development toward autonomy. StrongDM used end-to-end scenario testing and satisfaction thresholds instead of requiring all tests to pass. This process raises the question: If AI agents both generate and test the code, what standards are sufficient for trust?
+Team 1 transitions to the article on **StrongDM**’s “Dark Factory”. They described how StrongDM experimented with a three-person team in which AI agents wrote and tested all code, and the role of the humans was limited to designing specifications and scenarios. The hard rule was that humans could not write or review code, pushing the idea of AI-assisted development toward autonomy. StrongDM used end-to-end scenario testing and satisfaction thresholds instead of requiring all tests to pass. This process raises the question: If AI agents both generate and test the code, what standards are sufficient for trust?
 
-## **Discussion: **
+## **Discussion:**
 ---
 ## Additional References
 
