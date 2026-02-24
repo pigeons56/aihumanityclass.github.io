@@ -12,7 +12,7 @@ author = "Team 5"
 
 **Articles Discussed:** [You Don’t Need to Swipe Right. A.I. Is Transforming Dating Apps.](https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html)
 
-In today’s news section, Table 9 presented an AI dating platform that uses artificial intelligence to match singles based on values, lifestyles and political views. 
+In today’s news section, Table 9 presented an **AI dating platform** that uses artificial intelligence to match singles based on values, lifestyles and political views. 
 
 Table 9 started by discussing the concept of a “romantic recession,” which some people argue we might be undergoing at the moment — Americans are marrying less and marrying at later ages, which might lead to an older population. There are a lot of reasons why a romantic recession might be happening, but one is the burnout that dating apps can create, even though 1 in 5 adults think algorithms can predict “love.” Does this make it harder or easier to find love? With the introduction of AI, this question can become quite vague. Some reasons people may use AI platforms like Datedrop to find love could be loneliness, which is on the rise.
 
@@ -58,7 +58,7 @@ Professor Evans also contributed some insightful thoughts on the history of soft
 
 ## **Overview:**
 
-Team 1 opened the class with the statistic that over 90% of developers in the U.S. now use AI coding tools, and companies are increasingly integrating AI-generated code directly into production systems, but this information framed an interesting question: What happens when nearly half of the code contains exploitable bugs?
+Team 1 opened the class with the statistic that over **90%** of developers in the U.S. now use AI coding tools, and companies are increasingly integrating AI-generated code directly into production systems, but this information framed an interesting question: What happens when nearly half of the code contains exploitable bugs?
 
 Team 1 introduced the report from the **Center for Security and Emerging Technology** (CSET) that examined the security risks of AI-generated code. The report highlights three categories of risk associated with AI models.
 
@@ -70,9 +70,32 @@ Team 1 introduced the report from the **Center for Security and Emerging Technol
 
 Team 1 transitions to the article on **StrongDM**’s “Dark Factory”. They described how StrongDM experimented with a three-person team in which AI agents wrote and tested all code, and the role of the humans was limited to designing specifications and scenarios. The hard rule was that humans could not write or review code, pushing the idea of AI-assisted development toward autonomy. StrongDM used end-to-end scenario testing and satisfaction thresholds instead of requiring all tests to pass. This process raises the question: If AI agents both generate and test the code, what standards are sufficient for trust?
 
-## **Discussion:**
+## **Example:**
+1. **Building a C compiler with Claude:** The Lead Team provided the class with an example: building a C compiler with Claude. The example involved tasking a group of Claude instances to build a C compiler in rust and measure how long it took. The result proved that it took **2 weeks**, cost **$20,000** in API costs, and involved over **2,000 Claude code sessions**. The process involved the compiler looping onto itself to take problem after problem in order to continue. The compilation was based in GitHub and used Docker to have instances of Claude work at the same time on different repositories. This encouraged no communication or orchestration between instances. It is important to note that there were a list of problems, and each one locked down a problem, worked on it, and pushed it to GitHub
 
-**Discussion Question:** *If we trust satisfaction over code, is that enough for safety-critical systems or do you still want humans in the loop somewhere?*
+
+
+2. **Building [AI & Humanity class website](https://ai-humanity-site.vercel.app) using claude:** The Lead Team then moved in to a demonstration of a website they created using Claude. The website has many tabs including Home, About, Projects, Reflections, Resources and Contact. The structure of the website is neatly organized, and the graphics are extremely engaging. Overall, the demonstration to the class was highly interesting and effective.
+
+<center>
+<table style="border-collapse: separate; border-spacing: 20px 0;"> <tr>
+    <td align="center" width="33.33%" style="border: none; padding: 10px;">
+      <img src="/images/claudeprompt.png" width="100%" alt="claudeprompt"><br>
+      <em>1.Ask Claude for a product requirement document</em>
+    </td>
+    <td align="center" width="33.33%" style="border: none; padding: 10px;">
+      <img src="/images/checklist.png" width="50%" alt="checklist"><br>
+      <em>2. Ask Claude to generate a checklist using that file</em>
+    </td>
+    <td align="center" width="33.33%" style="border: none; padding: 10px;">
+      <img src="/images/demowebsite.png" width="120%" alt="demowebsite"><br>
+      <em>3. Ask Claude to make the website following the checklist</em>
+    </td>
+  </tr>
+</table>
+</center>
+
+## **Discussion:** If we trust satisfaction over code, is that enough for safety-critical systems or do you still want humans in the loop somewhere?*
 
 The majority of the discussion revolves around the safety tradeoffs between human and AI generated code. AI generated code faces problems such as security vulnerabilities, jailbreaking, and training bias. On the other hand, humans might cause damage through malpractice and access privileges. Team 4 raised the question that it is not about how AI is capable, but rather how much risk organizations are willing to accept in exchange for efficiency and technological advancement. The lead team responds to this question with a perspective of, “just because we can automate something doesn’t mean we should.” 
 
@@ -84,7 +107,8 @@ Professor Evans has a positive perspective about this topic , pointing out that 
 
 Additional Sources
 
-- For Claude demo: https://github.com/anthropics/claudes-c-compiler
+- Repository for C compiler that Claude built: https://github.com/anthropics/claudes-c-compiler
+- Product requirement document that Claude generated: https://tristangrubbs.com/access-9f3c7d-prd.html
 
 
 ---
