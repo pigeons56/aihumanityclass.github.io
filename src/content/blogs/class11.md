@@ -10,19 +10,21 @@ author = "Team 5"
 
 **Presented by Team 9**: [Slides](https://docs.google.com/presentation/d/1TUlGu7fM0B0kgm4LLHdQLnx1knUGQNJKW8xgi_xaZqA/edit?usp=sharing)
 
-**Articles Discussed:** [You Don’t Need to Swipe Right. A.I. Is Transforming Dating Apps.](https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html)
+**Article:** Eli Tan. [_You Don’t Need to Swipe Right. A.I. Is Transforming Dating Apps_](https://www.nytimes.com/2025/11/03/technology/ai-dating-apps.html). New York Times, 3 November 2025.
 
-In today’s news section, Table 9 presented an **AI dating platform** that uses artificial intelligence to match singles based on values, lifestyles and political views. 
+In today’s news section, Table 9 presented an **AI dating platform** that claims to use artificial intelligence to match singles based on values, lifestyles and political views. 
 
-Table 9 started by discussing the concept of a “romantic recession,” which some people argue we might be undergoing at the moment — Americans are marrying less and marrying at later ages, which might lead to an older population. There are a lot of reasons why a romantic recession might be happening, but one is the burnout that dating apps can create, even though 1 in 5 adults think algorithms can predict “love.” Does this make it harder or easier to find love? With the introduction of AI, this question can become quite vague. Some reasons people may use AI platforms like Datedrop to find love could be loneliness, which is on the rise.
+Table 9 started by discussing the concept of a “romantic recession”, which some people argue we might be undergoing at the moment—Americans are marrying less and marrying at later ages, which leads to an older population with fewer children and grandchildren. 
+
+There are many reasons why a romantic recession might be happening, but one is the burnout that dating apps can create, even though 1 in 5 adults think algorithms can predict “love”. Does this make it harder or easier to find love? With the introduction of AI, this question can become quite vague. Some reasons people may use AI platforms like Datedrop to find love could be loneliness, which is on the rise.
 
 Although Table 9 had three questions for discussion, we were only able to discuss one in depth, although the others did influence the perspectives in table groups from prior small-group discussion. Our discussion focused around the question “How might AI affect emotional attachment and expectations in relationships?” 
 
-## **Discussion:** How might AI affect emotional attachment and expectations in relationship?
+**Discussion:** _How might AI affect emotional attachment and expectations in relationships?_
 
-Table 10 started us off with discussing the unrealistic expectations AI sycophancy might lead to, while Table 4 was curious what differentiated it from other algorithms like Marriage Pact. The only difference seemed to be the use of an AI model rather than a rules-based algorithm, though. TA Bijan was skeptical of DateDrop because models take into account your perception of yourself instead of your true nature, while Table 4 was skeptical because of the gamification of dating through apps like these. 
+One table started by raising the unrealistic expectations AI sycophancy might lead to, while another table was curious what differentiated it from other algorithms like Marriage Pact. The only difference seemed to be the use of an AI model rather than a rules-based algorithm, though. One participant was skeptical of DateDrop because models take into account your perception of yourself instead of your true nature, while others were skeptical because of the gamification of dating through apps like these. 
 
-Table 12 proposed a new, but related discussion topic: what differentiates an AI matchmaker from a human matchmaker? We discussed human bias within matchmaking, which is comparable to the potential for AI bias as well. Some members of the class thought that the willingness to trust a matchmaker depends on the person, and some people may actually be more willing to trust an AI matchmaker than a human one.
+One student proposed a new, but related discussion topic: _what differentiates an AI matchmaker from a human matchmaker?_ We discussed human bias within matchmaking, which is comparable to the potential for AI bias as well. Some members of the class thought that the willingness to trust a matchmaker depends on the person, and some people may actually be more willing to trust an AI matchmaker than a human one.
 
 Finally, the class discussed the profit incentive for apps like these, and whether profit incentive is actually a valuable way to determine a company’s worth anyway. Tables were torn between confusion on how DateDrop’s business model operated, skepticism over the incentive for DateDrop to make good matches, and passion over simply making something that is effective and helpful, regardless of its cost or benefit.
 
@@ -44,7 +46,12 @@ Before the lead team presented, Professor Evans had some thoughts from Tuesday�
   </tr>
 </table>
 </center>
-Professor Evans also contributed some insightful thoughts on the history of software development. We discussed the development of Fortran (which was created by a UVA dropout who worked at IBM in 1950!) and the evolution of a “software company,” which was very relevant to our discussion from last class. Professor Evans ended with a reminder that the world of programming is always changing, even within education — we used to have a class where you would look at compiler output, but none of us in the class were old enough to have taken it. The world has already been changing rapidly, even before AI. It’s only a matter of speeding up that process.
+
+Professor Evans also contributed some insightful thoughts on the history of software development. We discussed the development of Fortran (which was created by a UVA dropout who worked at IBM in 1950!) and the evolution of a “software company,” which was very relevant to our discussion from last class. 
+
+When Fortran was being developed, it was a critical requirement that the output the compiler produced was never worse than twice as slow as what a human programmer would write. At the time, people were skpetical of automatically-generated machine code and computer cycles were very valuable, so IBM recognized that people would examin the compiler output and if the quality of code produced by the compiler was worse than a human would write this would be a problem. IBM was also under anti-trust scrutiny at the time, and had reached a consent agreement to sell computers (instead of just renting them).
+
+Professor Evans ended with a reminder that the world of programming is always changing, even within education — UVA used to have [a class where students would look at compiler output](https://www.cs.virginia.edu/~evans/cs216/), but none of us in the class were old enough to have taken it. The world has already been changing rapidly, even before AI. It’s only a matter of speeding up that process.
 
 ---
 ## Lead Topic: Software Development using AI
@@ -68,14 +75,15 @@ Team 1 introduced the report from the **Center for Security and Emerging Technol
 
 3. **Systematic and supply chain:** This happens when insecure AI generated code enters open repositories and becomes training data for models, causing a negative feedback loop.
 
-Team 1 transitions to the article on **StrongDM**’s “Dark Factory”. They described how StrongDM experimented with a three-person team in which AI agents wrote and tested all code, and the role of the humans was limited to designing specifications and scenarios. The hard rule was that humans could not write or review code, pushing the idea of AI-assisted development toward autonomy. StrongDM used end-to-end scenario testing and satisfaction thresholds instead of requiring all tests to pass. This process raises the question: If AI agents both generate and test the code, what standards are sufficient for trust?
+Team 1 transitioned to the article on **StrongDM**’s “Dark Factory”. They described how StrongDM experimented with a three-person team in which AI agents wrote and tested all code, and the role of the humans was limited to designing specifications and scenarios. The hard rule was that humans could not write or review code, pushing the idea of AI-assisted development toward autonomy. StrongDM used end-to-end scenario testing and satisfaction thresholds instead of requiring all tests to pass. This process raises the question: _if AI agents both generate and test the code, what standards are sufficient for trust?_
 
 ## **Example:**
 1. **Building a C compiler with Claude:** The Lead Team provided the class with an example: building a C compiler with Claude. The example involved tasking a group of Claude instances to build a C compiler in rust and measure how long it took. The result proved that it took **2 weeks**, cost **$20,000** in API costs, and involved over **2,000 Claude code sessions**. The process involved the compiler looping onto itself to take problem after problem in order to continue. The compilation was based in GitHub and used Docker to have instances of Claude work at the same time on different repositories. This encouraged no communication or orchestration between instances. It is important to note that there were a list of problems, and each one locked down a problem, worked on it, and pushed it to GitHub
 
 
+2. **Building an [AI & Humanity class website](https://ai-humanity-site.vercel.app) using Claude:** The Lead Team then moved in to a demonstration of a [website they created using Claude Code](https://ai-humanity-site.vercel.app). 
 
-2. **Building [AI & Humanity class website](https://ai-humanity-site.vercel.app) using claude:** The Lead Team then moved in to a demonstration of a website they created using Claude. The website has many tabs including Home, About, Projects, Reflections, Resources and Contact. The structure of the website is neatly organized, and the graphics are extremely engaging. Overall, the demonstration to the class was highly interesting and effective.
+The website has many tabs including Home, About, Projects, Reflections, Resources and Contact. The structure of the website is neatly organized, and the graphics are extremely engaging. Overall, the demonstration to the class was highly interesting and effective.
 
 <center>
 <table style="border-collapse: separate; border-spacing: 20px 0;"> <tr>
@@ -95,17 +103,18 @@ Team 1 transitions to the article on **StrongDM**’s “Dark Factory”. They d
 </table>
 </center>
 
-## **Discussion:** If we trust satisfaction over code, is that enough for safety-critical systems or do you still want humans in the loop somewhere?*
+**Discussion:** _If we trust satisfaction over code, is that enough for safety-critical systems or do you still want humans in the loop somewhere?_
 
-The majority of the discussion revolves around the safety tradeoffs between human and AI generated code. AI generated code faces problems such as security vulnerabilities, jailbreaking, and training bias. On the other hand, humans might cause damage through malpractice and access privileges. Team 4 raised the question that it is not about how AI is capable, but rather how much risk organizations are willing to accept in exchange for efficiency and technological advancement. The lead team responds to this question with a perspective of, “just because we can automate something doesn’t mean we should.” 
+The majority of the discussion revolved around the safety tradeoffs between human and AI generated code. AI generated code faces problems such as security vulnerabilities, jailbreaking, and training bias. On the other hand, humans might cause damage through malpractice and access privileges. 
 
-Professor Evans has a positive perspective about this topic , pointing out that many real-world vulnerabilities are already found using automated scanning tools; AI automated scanning tools are often better than the existing automation; and missed vulnerabilities don’t automatically mean AI failed.
+One team raised the question that it is not about how AI is capable, but rather how much risk organizations are willing to accept in exchange for efficiency and technological advancement. The lead team responded to this question with a perspective of, “just because we can automate something doesn’t mean we should.” 
+
+Professor Evans has an optimistic perspective about this topic, pointing out that many real-world vulnerabilities are already found using automated scanning tools. AI automated scanning tools are often better than the existing automation. There will be an "arms race" between people using AI tools to develop secure systems and people using AI to accelerate cyberattacks, but this is an unusual security arms race where most of the advantages are on the side of secure systems.
 
 
 ---
 ## Additional References
 
-Additional Sources
 
 - Repository for C compiler that Claude built: https://github.com/anthropics/claudes-c-compiler
 - Product requirement document that Claude generated: https://tristangrubbs.com/access-9f3c7d-prd.html
