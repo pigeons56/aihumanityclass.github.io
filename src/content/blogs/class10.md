@@ -112,6 +112,6 @@ Bean, R. and Davenport, T. H. (2026, January 6). Five Trends in AI and Data Scie
 
 GeeksforGeeks. (2023, November 8). Evolution of Software Development. GeeksforGeeks. https://www.geeksforgeeks.org/software-engineering/evolution-of-software-development-history-phases-and-future-trends/ 
 
-(2025). Stanford.edu. https://hai.stanford.edu/ai-index/2025-ai-index-report/public-opinion
+AI Index Repot, Chapter 8: Public Opinion (2025). Stanford.edu. https://hai.stanford.edu/ai-index/2025-ai-index-report/public-opinion
 
 
